@@ -19,7 +19,7 @@ I love solving challenging problems and bringing products to life using clean, m
 ## 🔧 Tech Stack
 
 - **Languages:** Java, Python, C/C++, JavaScript, SQL
-- **Frameworks & Tools:** Spring Boot, React, Node.js, Android, Firebase, Docker, MySQL, MongoDB, Git
+- **Frameworks & Tools:** Spring, Spring Boot, React, Node.js, Android, Firebase, Docker, MySQL, MongoDB, Git
 - **Concepts:** Distributed Systems, Agile/Scrum, Design Patterns, REST APIs, OAuth, Real-Time Systems
 
 ---
